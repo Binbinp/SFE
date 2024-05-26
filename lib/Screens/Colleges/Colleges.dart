@@ -118,7 +118,7 @@ class _CollegeOfArchitectureScreenState
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -276,7 +276,7 @@ class _CollegeOfEducationScreenState extends State<CollegeOfEducationScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -429,7 +429,7 @@ class _CollegeOfEngineeringScreenState extends State<CollegeOfEngineeringScreen>
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -582,7 +582,7 @@ class _CollegeOfInformationTechnologyScreenState extends State<CollegeOfInformat
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -735,7 +735,7 @@ class _CollegeOfHumanitiesScreenState extends State<CollegeOfHumanitiesScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -888,7 +888,7 @@ class _CollegeOfNursingScreenState extends State<CollegeOfNursingScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -1041,7 +1041,7 @@ class _CollegeOfPhysicalTherapyScreenState extends State<CollegeOfPhysicalTherap
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -1194,7 +1194,7 @@ class _CollegeOfScienceScreenState extends State<CollegeOfScienceScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -1347,7 +1347,7 @@ class _PLMBusinessSchoolScreenState extends State<PLMBusinessSchoolScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
+                  'Karl Anthony Carlos',
                   'Lola Robles',
                   'Agustin Welch',
                   'Zachery Manning',
@@ -1500,11 +1500,11 @@ class _SchoolOfGovernmentScreenState extends State<SchoolOfGovernmentScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Carlos, Karl Anthony',
-                  'Lola, Robles',
-                  'Agustin, Welch',
-                  'Zachery, Manning',
-                  'Jean, Valencia',
+                  'Karl Anthony Carlos',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
