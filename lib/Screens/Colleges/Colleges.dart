@@ -118,11 +118,11 @@ class _CollegeOfArchitectureScreenState
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -276,11 +276,11 @@ class _CollegeOfEducationScreenState extends State<CollegeOfEducationScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -429,11 +429,11 @@ class _CollegeOfEngineeringScreenState extends State<CollegeOfEngineeringScreen>
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -582,11 +582,11 @@ class _CollegeOfInformationTechnologyScreenState extends State<CollegeOfInformat
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -735,11 +735,11 @@ class _CollegeOfHumanitiesScreenState extends State<CollegeOfHumanitiesScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -888,11 +888,11 @@ class _CollegeOfNursingScreenState extends State<CollegeOfNursingScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -1041,11 +1041,11 @@ class _CollegeOfPhysicalTherapyScreenState extends State<CollegeOfPhysicalTherap
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -1194,11 +1194,11 @@ class _CollegeOfScienceScreenState extends State<CollegeOfScienceScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -1347,11 +1347,11 @@ class _PLMBusinessSchoolScreenState extends State<PLMBusinessSchoolScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola Robles',
+                  'Agustin Welch',
+                  'Zachery Manning',
+                  'Jean Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
@@ -1500,11 +1500,11 @@ class _SchoolOfGovernmentScreenState extends State<SchoolOfGovernmentScreen> {
                 },
                 underline: Container(), // Remove the underline
                 items: <String>[
-                  'Professor A',
-                  'Professor B',
-                  'Professor C',
-                  'Professor D',
-                  'Professor E',
+                  'Carlos, Karl Anthony',
+                  'Lola, Robles',
+                  'Agustin, Welch',
+                  'Zachery, Manning',
+                  'Jean, Valencia',
                 ].map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
