@@ -20,9 +20,9 @@ class _CollegeOfArchitectureScreenState
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Architecture and Urban Planning',
+          'CAUP',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -42,15 +42,18 @@ class _CollegeOfArchitectureScreenState
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Architecture',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Architecture',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -178,9 +181,9 @@ class _CollegeOfEducationScreenState extends State<CollegeOfEducationScreen> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Education',
+          'CED',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -200,15 +203,18 @@ class _CollegeOfEducationScreenState extends State<CollegeOfEducationScreen> {
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Education',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Education',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -331,9 +337,9 @@ class _CollegeOfEngineeringScreenState extends State<CollegeOfEngineeringScreen>
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Engineering and Technology',
+          'CET',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -353,15 +359,18 @@ class _CollegeOfEngineeringScreenState extends State<CollegeOfEngineeringScreen>
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Engineering and Technology',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Engineering and Technology',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -484,9 +493,9 @@ class _CollegeOfInformationTechnologyScreenState extends State<CollegeOfInformat
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Information Technology',
+          'CISTM',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -506,15 +515,18 @@ class _CollegeOfInformationTechnologyScreenState extends State<CollegeOfInformat
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Information Technology',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Information System and Technology Management',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -637,9 +649,9 @@ class _CollegeOfHumanitiesScreenState extends State<CollegeOfHumanitiesScreen> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Humanities',
+          'CHASS',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -659,15 +671,18 @@ class _CollegeOfHumanitiesScreenState extends State<CollegeOfHumanitiesScreen> {
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Humanities',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Humanities',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -790,9 +805,9 @@ class _CollegeOfNursingScreenState extends State<CollegeOfNursingScreen> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Nursing',
+          'CN',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -812,15 +827,18 @@ class _CollegeOfNursingScreenState extends State<CollegeOfNursingScreen> {
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Nursing',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Nursing',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -943,9 +961,9 @@ class _CollegeOfPhysicalTherapyScreenState extends State<CollegeOfPhysicalTherap
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Physical Therapy',
+          'CPT',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -965,15 +983,18 @@ class _CollegeOfPhysicalTherapyScreenState extends State<CollegeOfPhysicalTherap
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Physical Therapy',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Physical Therapy',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -1096,9 +1117,9 @@ class _CollegeOfScienceScreenState extends State<CollegeOfScienceScreen> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'College of Science',
+          'CS',
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -1118,15 +1139,18 @@ class _CollegeOfScienceScreenState extends State<CollegeOfScienceScreen> {
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
-                  const Text(
-                    'College of Science',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
+                  const Center(
+                    child: Text(
+                      'College of Science',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ],
@@ -1249,9 +1273,10 @@ class _PLMBusinessSchoolScreenState extends State<PLMBusinessSchoolScreen> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'PLM Business School',
+          'PLMBS',
+          textAlign: TextAlign.center,
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -1271,14 +1296,15 @@ class _PLMBusinessSchoolScreenState extends State<PLMBusinessSchoolScreen> {
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
                   const Text(
                     'PLM Business School',
+                    textAlign: TextAlign.center,
                     style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -1402,9 +1428,10 @@ class _SchoolOfGovernmentScreenState extends State<SchoolOfGovernmentScreen> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'School of Government',
+          'SOG',
+          textAlign: TextAlign.center,
           style: TextStyle(
-            fontSize: 15, // Set the font size to 15
+            fontSize: 20, // Set the font size to 15
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
@@ -1424,14 +1451,15 @@ class _SchoolOfGovernmentScreenState extends State<SchoolOfGovernmentScreen> {
                 children: [
                   Image.asset(
                     'assets/plm_logo.png', // Your image path
-                    width: 100, // Adjust the width as needed
-                    height: 100, // Adjust the height as needed
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
                   ),
                   const SizedBox(height: 10),
                   const Text(
                     'School of Government',
+                    textAlign: TextAlign.center,
                     style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
                     ),
                   ),

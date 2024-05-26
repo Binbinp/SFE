@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:new_project/Screens/Assessment/Course_Assessment.dart';
 import 'package:new_project/Screens/Assessment/Faculty_Assessment.dart';
 import 'package:new_project/Screens/Assessment/Overall_Screen.dart';
-import 'package:new_project/Screens/Homepage/Homepage.dart'; // Assuming this is the homepage screen file
+import 'package:new_project/Screens/Homepage/Homepage.dart';
 
 class AdmissionScreen extends StatelessWidget {
-  const AdmissionScreen({Key? key}) : super(key: key);
+  const AdmissionScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -17,7 +17,7 @@ class AdmissionScreen extends StatelessWidget {
 }
 
 class AdmissionMenuScreen extends StatelessWidget {
-  const AdmissionMenuScreen({Key? key}) : super(key: key);
+  const AdmissionMenuScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -46,10 +46,24 @@ class AdmissionMenuScreen extends StatelessWidget {
         ),
       ),
       body: Padding(
-        padding: const EdgeInsets.all(20.0),
+        padding: const EdgeInsets.fromLTRB(20.0, 72.0, 20.0, 20.0), // Adjust top padding to 1 inch below app bar
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          mainAxisAlignment: MainAxisAlignment.start,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
+            // Image and description added here
+            Container(
+              margin: const EdgeInsets.only(bottom: 20.0),
+              child: Column(
+                children: [
+                  Image.asset(
+                    'assets/plm_logo.png', // Your image path
+                    width: 200, // Adjust the width as needed
+                    height: 200, // Adjust the height as needed
+                  ),
+                ],
+              ),
+            ),
             const SizedBox(height: 10.0),
             _buildMenuItem(
               'Course Assessment Result',
